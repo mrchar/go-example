@@ -1,3 +1,4 @@
+// Package main 这个文件用于测试github.com/hallidave/mibtool提供的读取MIB文件到golang中的功能。
 package main
 
 import (
