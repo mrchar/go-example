@@ -1,2 +1,3 @@
-github.com/mrchar/go-example v0.0.0-20190924094906-b59b8e0d6b99 h1:jVCu42jr5SNDM9aHiarFVW3nbPLauLbgLMwZH5undE8=
-github.com/mrchar/go-example v0.0.0-20190924094906-b59b8e0d6b99/go.mod h1:OzlWIhAe5O0Eq+y875pKfhgpZZjx63scJmaxirTmoAA=
+github.com/mrchar/go-example v0.0.0-20190924104736-4c3df5657143 h1:NSljq7I1VFWK+gA+7+oRETY7b5J8b5q6JkVm7UmAhAA=
+github.com/mrchar/go-example/gomod/example1/sub v0.0.0-20190924104736-4c3df5657143 h1:9+Q+Bb697S9xZ9sgDyfqpzfFvbibWUKVdNQupgoP/q4=
+github.com/mrchar/go-example/gomod/example1/sub v0.0.0-20190924104736-4c3df5657143/go.mod h1:64aOjJdGFYPMtok0e82Dbjrqi5C+8Mqck+1adgl3xeU=
