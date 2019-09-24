@@ -1,4 +1,4 @@
-module github.com/mrchar/go-example/example1/top
+module github.com/mrchar/go-example/gomod/example1/top
 
 go 1.13
 
